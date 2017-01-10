@@ -12,6 +12,7 @@ http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
 4)Image search server
 https://github.com/AKSHAYUBHAT/VisualSearchServer
 https://github.com/beniz/deepdetect/tree/master/demo/imgsearch
+https://github.com/beniz/deepdetect/issues/92
 
 https://github.com/pavelgonchar/face-search
 https://github.com/ricardocabral/iskdaemon
