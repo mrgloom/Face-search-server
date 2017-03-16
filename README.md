@@ -23,4 +23,5 @@ https://github.com/dlau/mineye
 5)Other / To look at
 http://disa.fi.muni.cz/profiset/
 https://github.com/ageitgey/face_recognition
+https://github.com/moinudeen/digit-recognizer-flask-cnn
 ~~~
