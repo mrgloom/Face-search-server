@@ -20,6 +20,8 @@ https://github.com/pavelgonchar/face-search
 https://github.com/ricardocabral/iskdaemon
 https://github.com/dlau/mineye
 
+https://github.com/HanXiaoyang/image_retrieval
+
 5)Other / To look at
 http://disa.fi.muni.cz/profiset/
 https://github.com/ageitgey/face_recognition
