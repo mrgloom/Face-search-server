@@ -16,6 +16,7 @@ https://github.com/beniz/deepdetect/tree/master/demo/imgsearch
 https://github.com/beniz/deepdetect/issues/92
 https://github.com/tuan3w/visual_search
 https://github.com/icodingc/ImageRetrieval-tf
+https://github.com/paucarre/tiefvision
 
 https://github.com/pavelgonchar/face-search
 https://github.com/ricardocabral/iskdaemon
