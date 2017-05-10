@@ -24,6 +24,7 @@ https://github.com/ricardocabral/iskdaemon
 https://github.com/dlau/mineye
 
 https://github.com/HanXiaoyang/image_retrieval
+https://github.com/willard-yuan/CNN-for-Image-Retrieval
 
 5)Other / To look at
 http://disa.fi.muni.cz/profiset/
