@@ -20,6 +20,7 @@ https://github.com/paucarre/tiefvision
 https://github.com/seetaface/SeetaFaceEngine
 https://github.com/willard-yuan/CNN-for-Face-Image-Retrieval
 
+https://github.com/paucarre/tiefvision
 https://github.com/pavelgonchar/face-search
 https://github.com/ricardocabral/iskdaemon
 https://github.com/dlau/mineye
