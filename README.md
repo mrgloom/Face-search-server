@@ -32,4 +32,7 @@ https://github.com/willard-yuan/CNN-for-Image-Retrieval
 http://disa.fi.muni.cz/profiset/
 https://github.com/ageitgey/face_recognition
 https://github.com/moinudeen/digit-recognizer-flask-cnn
+
+6) Database:
+https://github.com/xuefeng7/FACE-LIBRARY
 ~~~
