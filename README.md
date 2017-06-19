@@ -35,4 +35,7 @@ https://github.com/moinudeen/digit-recognizer-flask-cnn
 
 6) Database:
 https://github.com/xuefeng7/FACE-LIBRARY
+
+7) Video
+https://github.com/pyannote/pyannote-video
 ~~~
