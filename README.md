@@ -38,4 +38,7 @@ https://github.com/xuefeng7/FACE-LIBRARY
 
 7) Video
 https://github.com/pyannote/pyannote-video
+
+8) Other
+https://github.com/LaoDar/cnn_head_pose_estimator
 ~~~
