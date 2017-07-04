@@ -7,6 +7,7 @@ https://github.com/rarcega/instagram-scraper
 2)Face detection
 http://dlib.net/face_detection_ex.cpp.html
 http://blog.dlib.net/2014/02/dlib-186-released-make-your-own-object.html
+https://github.com/ageitgey/face_recognition
 3)Feature extraction
 https://github.com/BVLC/caffe/blob/master/tools/extract_features.cpp
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
