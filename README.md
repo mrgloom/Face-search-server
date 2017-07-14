@@ -12,6 +12,7 @@ https://github.com/ageitgey/face_recognition
 https://github.com/BVLC/caffe/blob/master/tools/extract_features.cpp
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
 4)Image search server
+http://www.robots.ox.ac.uk/~vgg/software/vise/
 https://github.com/AKSHAYUBHAT/VisualSearchServer
 https://github.com/beniz/deepdetect/tree/master/demo/imgsearch
 https://github.com/beniz/deepdetect/issues/92
