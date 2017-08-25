@@ -47,4 +47,7 @@ https://github.com/pyannote/pyannote-video
 
 8) Other
 https://github.com/LaoDar/cnn_head_pose_estimator
+
+9) Datasets
+https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 ~~~
