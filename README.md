@@ -39,15 +39,13 @@ http://disa.fi.muni.cz/profiset/
 https://github.com/ageitgey/face_recognition
 https://github.com/moinudeen/digit-recognizer-flask-cnn
 
-6) Database:
+6) Datasets:
 https://github.com/xuefeng7/FACE-LIBRARY
+https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 
 7) Video
 https://github.com/pyannote/pyannote-video
 
 8) Other
 https://github.com/LaoDar/cnn_head_pose_estimator
-
-9) Datasets
-https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 ~~~
