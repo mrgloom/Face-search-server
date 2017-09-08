@@ -47,5 +47,8 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 https://github.com/pyannote/pyannote-video
 
 8) Other
+Pose estimation
 https://github.com/LaoDar/cnn_head_pose_estimator
+Age estimation
+https://github.com/yu4u/age-gender-estimation
 ~~~
