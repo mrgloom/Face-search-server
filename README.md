@@ -4,6 +4,7 @@
 1)Grabber
 https://github.com/althonos/InstaLooter
 https://github.com/rarcega/instagram-scraper
+https://github.com/ankitaggarwal011/FaceGrab
 2)Face detection
 http://dlib.net/face_detection_ex.cpp.html
 http://blog.dlib.net/2014/02/dlib-186-released-make-your-own-object.html
