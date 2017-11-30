@@ -50,6 +50,7 @@ https://github.com/pyannote/pyannote-video
 8) Other
 Pose estimation
 https://github.com/LaoDar/cnn_head_pose_estimator
+https://github.com/natanielruiz/deep-head-pose
 Age estimation
 https://github.com/yu4u/age-gender-estimation
 ~~~
