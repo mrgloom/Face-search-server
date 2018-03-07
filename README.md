@@ -42,6 +42,7 @@ https://github.com/moinudeen/digit-recognizer-flask-cnn
 https://github.com/harpribot/awesome-information-retrieval
 
 6) Datasets:
+https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
 https://github.com/xuefeng7/FACE-LIBRARY
 https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 
