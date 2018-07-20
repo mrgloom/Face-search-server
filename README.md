@@ -47,6 +47,7 @@ https://github.com/harpribot/awesome-information-retrieval
 https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
 https://github.com/xuefeng7/FACE-LIBRARY
 https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
+https://susanqq.github.io/UTKFace/
 
 7) Video
 https://github.com/pyannote/pyannote-video
