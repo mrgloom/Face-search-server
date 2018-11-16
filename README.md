@@ -9,6 +9,9 @@ https://github.com/ankitaggarwal011/FaceGrab
 http://dlib.net/face_detection_ex.cpp.html
 http://blog.dlib.net/2014/02/dlib-186-released-make-your-own-object.html
 https://github.com/ageitgey/face_recognition
+2.1) Face alignment
+https://github.com/cmusatyalab/openface/blob/master/openface/align_dlib.py
+https://github.com/davidsandberg/facenet/tree/master/src/align
 3)Feature extraction
 https://github.com/BVLC/caffe/blob/master/tools/extract_features.cpp
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
