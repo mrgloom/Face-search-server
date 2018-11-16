@@ -12,6 +12,7 @@ https://github.com/ageitgey/face_recognition
 3)Feature extraction
 https://github.com/BVLC/caffe/blob/master/tools/extract_features.cpp
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
+https://github.com/davidsandberg/facenet
 To look at:
 https://github.com/deepinsight/insightface
 4)Image search server
