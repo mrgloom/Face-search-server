@@ -18,6 +18,7 @@ https://github.com/mpatacchiola/deepgaze/tree/master/examples/ex_dnn_head_pose_e
 https://github.com/BVLC/caffe/blob/master/tools/extract_features.cpp
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
 https://github.com/davidsandberg/facenet
+https://github.com/qidiso/mobilefacenet-V2
 To look at:
 https://github.com/deepinsight/insightface
 4)Image search server
