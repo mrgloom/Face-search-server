@@ -44,6 +44,9 @@ https://github.com/HanXiaoyang/image_retrieval
 https://github.com/willard-yuan/CNN-for-Image-Retrieval
 https://github.com/unwitting/imageme
 
+4.1) KNN search
+https://github.com/facebookresearch/faiss/
+
 5)Other / To look at
 http://disa.fi.muni.cz/profiset/
 https://github.com/ageitgey/face_recognition
