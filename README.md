@@ -14,6 +14,7 @@ https://github.com/cmusatyalab/openface/blob/master/openface/align_dlib.py
 https://github.com/davidsandberg/facenet/tree/master/src/align
 2.2) Face pose estimation
 https://github.com/mpatacchiola/deepgaze/tree/master/examples/ex_dnn_head_pose_estimation_training
+https://github.com/yinguobing/head-pose-estimation
 3)Feature extraction
 https://github.com/BVLC/caffe/blob/master/tools/extract_features.cpp
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
