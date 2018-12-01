@@ -15,6 +15,10 @@ https://github.com/davidsandberg/facenet/tree/master/src/align
 2.2) Face pose estimation
 https://github.com/mpatacchiola/deepgaze/tree/master/examples/ex_dnn_head_pose_estimation_training
 https://github.com/yinguobing/head-pose-estimation
+2.3) Gender prediction
+https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
+2.4) Age prediction
+https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 3)Feature extraction
 https://github.com/BVLC/caffe/blob/master/tools/extract_features.cpp
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
