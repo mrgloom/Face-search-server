@@ -24,6 +24,7 @@ https://github.com/BVLC/caffe/blob/master/tools/extract_features.cpp
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
 https://github.com/davidsandberg/facenet
 https://github.com/qidiso/mobilefacenet-V2
+https://github.com/iwantooxxoox/Keras-OpenFace
 To look at:
 https://github.com/deepinsight/insightface
 4)Image search server
