@@ -20,6 +20,7 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 2.4) Age prediction
 https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 3)Feature extraction
+https://github.com/rcmalli/keras-vggface
 https://github.com/BVLC/caffe/blob/master/tools/extract_features.cpp
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
 https://github.com/davidsandberg/facenet
