@@ -9,6 +9,8 @@ https://github.com/ankitaggarwal011/FaceGrab
 http://dlib.net/face_detection_ex.cpp.html
 http://blog.dlib.net/2014/02/dlib-186-released-make-your-own-object.html
 https://github.com/ageitgey/face_recognition
+Face detection datasets:
+https://github.com/NVlabs/ffhq-dataset
 2.1) Face alignment
 https://github.com/cmusatyalab/openface/blob/master/openface/align_dlib.py
 https://github.com/davidsandberg/facenet/tree/master/src/align
