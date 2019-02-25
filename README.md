@@ -17,6 +17,7 @@ https://github.com/davidsandberg/facenet/tree/master/src/align
 2.2) Face pose estimation
 https://github.com/mpatacchiola/deepgaze/tree/master/examples/ex_dnn_head_pose_estimation_training
 https://github.com/yinguobing/head-pose-estimation
+https://github.com/Oreobird/tf-keras-deep-head-pose
 2.3) Gender prediction
 https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 2.4) Age prediction
