@@ -80,4 +80,7 @@ https://github.com/LaoDar/cnn_head_pose_estimator
 https://github.com/natanielruiz/deep-head-pose
 Age estimation
 https://github.com/yu4u/age-gender-estimation
+
+9) Other related
+https://github.com/TheButlah/tinder-bot
 ~~~
