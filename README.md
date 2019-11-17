@@ -30,6 +30,7 @@ https://github.com/davidsandberg/facenet
 https://github.com/qidiso/mobilefacenet-V2
 https://github.com/iwantooxxoox/Keras-OpenFace
 https://github.com/nizhib/pytorch-insightface
+https://github.com/AlfredXiangWu/LightCNN
 To look at:
 https://github.com/deepinsight/insightface
 https://github.com/ZhaoJ9014/High-Performance-Face-Recognition
