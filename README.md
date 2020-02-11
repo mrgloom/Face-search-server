@@ -35,6 +35,7 @@ https://github.com/seasonSH/Probabilistic-Face-Embeddings
 To look at:
 https://github.com/deepinsight/insightface
 https://github.com/ZhaoJ9014/High-Performance-Face-Recognition
+https://github.com/romavlasov/face-recognition-pipeline
 4)Image search server
 https://github.com/AKSHAYUBHAT/DeepVideoAnalytics
 https://github.com/ox-vgg/via
