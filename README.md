@@ -68,6 +68,7 @@ http://disa.fi.muni.cz/profiset/
 https://github.com/ageitgey/face_recognition
 https://github.com/moinudeen/digit-recognizer-flask-cnn
 https://github.com/harpribot/awesome-information-retrieval
+https://github.com/polarisZhao/awesome-face
 
 6) Datasets:
 https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
